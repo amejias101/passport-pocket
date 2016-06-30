@@ -2,7 +2,7 @@
     "name": "passport-pocket",
     "version": "1.0.0",
     "description": "Pocket authentication strategy for Passport.",
-    "main": "./pocket-strategy.js",
+    "main": "./index.js",
     "repository":   {
         "type": "git",
         "url" : "git://github.com/Siedrix/passport-pocket.git"
